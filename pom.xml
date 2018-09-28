@@ -15,8 +15,10 @@
 
   <scm>
       <url>https://github.com/misanche/mlbparks</url>
-      <connection>scm:git:ssh://github.com/misanche/mlbparks.git</connection>
-      <developerConnection>scm:git:ssh://github.com/misanche/mlbparks.git</developerConnection>
+<!--      <connection>scm:git:ssh://github.com/misanche/mlbparks.git</connection>-->
+<!--      <developerConnection>scm:git:ssh://github.com/misanche/mlbparks.git</developerConnection>-->
+    <connection>scm:git:git@github.com:misanche/mlbparks.git</connection>
+    <developerConnection>scm:git:git@github.com:misanche/mlbparks.git</developerConnection>
       <tag></tag>
   </scm>
   
