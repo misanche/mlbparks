@@ -12,6 +12,13 @@
     <junit.version>4.8.2</junit.version>
   </properties>
 
+  <scm>
+      <url>https://github.com/misanche/mlbparks.git</url>
+      <connection>scm:git:git@github.com:misanche/mlbparks.git</connection>
+      <developerConnection>scm:git:git@github.com:misanche/mlbparks.git</developerConnection>
+      <tag></tag>
+  </scm>
+  
   <dependencyManagement>
     <dependencies>
       <dependency>
