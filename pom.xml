@@ -96,10 +96,10 @@
           <id>nexus-releases</id>
           <url>http://nexus3-misanche-nexus.apps.na39.openshift.opentlc.com/repository/maven-releases</url>
       </repository>
-      <repository>
-          <id>github</id>
-          <name>MLBParks Repo</name>
-          <url>https://github.com/misanche/mlbparks.git</url>
-      </repository>
+<!--      <repository>-->
+<!--          <id>github</id>-->
+<!--          <name>MLBParks Repo</name>-->
+<!--          <url>https://github.com/misanche/mlbparks.git</url>-->
+<!--      </repository>-->
   </distributionManagement>
 </project>
