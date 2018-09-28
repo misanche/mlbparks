@@ -88,6 +88,14 @@
     </plugins>
   </build>
   <distributionManagement>
+      <snapshotRepository>
+          <id>nexus-snapshots</id>
+          <url>http://nexus3-misanche-nexus.apps.na39.openshift.opentlc.com/repository/maven-snapshots</url>
+      </snapshotRepository>
+      <repository>
+          <id>nexus-releases</id>
+          <url>http://nexus3-misanche-nexus.apps.na39.openshift.opentlc.com/repository/maven-releases</url>
+      </repository>
       <repository>
           <id>github</id>
           <name>MLBParks Repo</name>
